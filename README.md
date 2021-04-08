@@ -13,3 +13,6 @@ I like to listen a lot to music, playing online games and dungeons & dragons.  �
 -  Learn more front-end frameworks. 📚 
 - Start studying back-end. 📚
 - Become a full-stack developer.  📚
+
+### Contact me:
+[![Gmail Badge](https://img.shields.io/badge/-jorge.bmarques1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorge.bmarques1@gmail.com)](jorge.bmarques1@gmail.com)

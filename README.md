@@ -1,18 +1,16 @@
 # Hey 👋
 My name is Jorge Marques.  
 
-I am a Computer Engineer student at UNIVASF. 👨‍💻
+🎓 Studying Computer Engineering at UNIVASF.
+💻 Experience: Data Science (Natural Language Processing)
+📚 Currently, I'm learnig: Front-end technologies ( Html, css, JavaScript, React)
+🎯 I'm interested to learn: Node.js and Next.js
 
-Since I started computer engineering at the university, I'm discovering a and trying to learn a lot of new things.
-
-I worked with data science using python in a scientific project last year. Currently I'm studying Front-end development.
-
-I like to listen a lot to music, playing online games and dungeons & dragons.  ✨
+I like to listen a lot to music and play games with my friends.  ✨
 
 ### At the moment, my goals are:
--  Learn more front-end frameworks. 📚 
-- Start studying back-end. 📚
-- Become a full-stack developer.  📚
+- Graduate and become a Commputer Engineer.  👨🏻‍🎓
+- Become a full-stack developer.  👨🏻‍💻
 
 ### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-jorge.bmarques1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtojorge.bmarques1@gmail.com)](mailto:jorge.bmarques1@gmail.com)

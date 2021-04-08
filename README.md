@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey 👋
+My name is Jorge Marques.  
 
-<!--
-**jorgelbm/jorgelbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineer student at UNIVASF. 👨‍💻
 
-Here are some ideas to get you started:
+Since I started computer engineering at the university, I'm discovering a and trying to learn a lot of new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I worked with data science using python in a scientific project last year. Currently I'm studying Front-end development.
+
+I like to listen a lot to music, playing online games and dungeons & dragons.  ✨
+
+### At the moment, my goals are:
+-  Learn more front-end frameworks. 📚 
+- Start studying back-end. 📚
+- Become a full-stack developer.  📚

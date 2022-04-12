@@ -1,10 +1,12 @@
 # Hey 👋
-My name is Jorge Marques.  
+Welcome to my github profile!
 
+My name is Jorge Marques.
+- 🎨 Portfolio: https://jorgelbm.github.io/portfolio/
 - 🎓 Computer Engineering student at UNIVASF.
-- 💻 Python and Django developer.
+- 💻 Javascript, React.js, Python & Django developer.
 - 📚 Data science & Natural Language Processing researcher.
-- 🎯 Learning React.js
+- 🎯 Aiming to learn Typescript and Vue.js
 
 
 
